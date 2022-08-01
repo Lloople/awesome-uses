@@ -9326,30 +9326,6 @@ module.exports = [
     ],
   },
   {
-    name: 'David Llop',
-    description:
-      'Full stack developer from Girona. Open Source contributor. Always Learning.',
-    url: 'https://davidllop.com/uses',
-    twitter: '@lloople',
-    emoji: '🤨',
-    country: '🇪🇸',
-    computer: 'apple',
-    phone: 'iphone',
-    tags: [
-      'Developer',
-      'Back End',
-      'Full Stack',
-      'Engineer',
-      'PHP',
-      'JavaScript',
-      'Laravel',
-      'Vue.js',
-      'Chatbots',
-      'API',
-      'Blogger',
-    ],
-  },
-  {
     name: 'Alba Silvente',
     description:
       'Front-end developer, Vue & Tailwind CSS lover. Hip Hop & Afro house dancer.',
